@@ -1,5 +1,5 @@
 FROM          ubuntu:14.04.3
-MAINTAINER 	  Thibault Deheurles <tdeheurles@gmail.com>
+MAINTAINER    Thibault Deheurles <tdeheurles@gmail.com>
 
 RUN apt-get update                                                                               && \
     apt-get install -y                                                                              \
